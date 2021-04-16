@@ -1,0 +1,9 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ .observatoin-form label,  .observatoin-form input,  .observatoin-form textarea{
+     font-weight: 600;
+ }
+.required{
+    color: #ff0000;
+}
